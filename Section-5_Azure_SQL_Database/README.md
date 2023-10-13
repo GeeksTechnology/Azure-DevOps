@@ -4,6 +4,8 @@
 
 # builder une application qui se connecte à la base de donnée
 
+# Identité Managée
+
 # les differentes methodes d'utiliser les mots de Passe de l'application
   
    1- le login et le mot de passe dans l'application
