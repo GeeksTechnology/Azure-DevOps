@@ -1,6 +1,6 @@
 # Azure SQL Base de Donnée
 
-# Publions notre base de Donnée avons de la data
+# Publions notre base de Donnée avec de la data
 
 # builder une application qui se connecte à la base de donnée
 
