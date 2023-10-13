@@ -10,4 +10,10 @@
 
 # Deployer l'Application Web .NET sur l'App Service
 
+# Personnaliser le nom de domaine de l'App Service
+
+# Utilisons le SSL sur notre Apps Service
+
+# Deployons l'application sur les Slots
+
 # Test l'Application deployée
