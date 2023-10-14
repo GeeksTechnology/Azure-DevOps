@@ -1,4 +1,4 @@
-# Introduction to Azure App Service and Plan 
+# Introduction à Azure App Service et Plan 
 
 # Création de l'App Service en utilisant le portal
 
